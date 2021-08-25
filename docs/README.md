@@ -29,8 +29,7 @@
 01111001 00100001
 ```
 
-[![Happy Birthday](https://forthebadge.com/images/badges/built-with-love.svg)](https://vinitshahdeo.github.io/HBD/) [![Maked People Smile](https://forthebadge.com/images/badges/makes-people-smile.svg)](http://codeastrike.000webhostapp.com/hbd/)
-
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
 ### Designing a [website](http://codeastrike.000webhostapp.com/hbd/) to celebrate your loved one's day is always a great idea!
 
 > #### Click [here](http://codeastrike.000webhostapp.com/hbd/) to view live demo!
