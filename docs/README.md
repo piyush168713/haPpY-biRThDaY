@@ -34,12 +34,12 @@
 
 
 
-### Find some [more] creative ways!
+### Find some more creative ways!
 
 [![forthebadge](https://forthebadge.com/images/badges/oooo-kill-em.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://forthebadge.com)
 
 Run the below `C` code.
-
+<!--
 > Click [here](https://code.hackerearth.com/65105eK) to run online.
 
 [![C code](https://forthebadge.com/images/badges/made-with-c.svg)](https://code.hackerearth.com/65105eK) [![Run Online](https://forthebadge.com/images/badges/check-it-out.svg)](https://code.hackerearth.com/65105eK)
@@ -53,15 +53,17 @@ int main(void) {
         putchar(secret[message & 15] - 33);
         message >>= 4;
     }
-}
+}   
 ```
+
 
 > Click [here](https://gist.github.com/vinitshahdeo/28665b5a010b92cf96cd1abced0a2a9e) to view above gist!
 
 [![HackerNoon Story](https://img.shields.io/static/v1.svg?label=check&message=story%20on%20medium&color=success&logo=medium&style=for-the-badge&logoColor=white&colorA=grey)](https://hackernoon.com/coders-way-of-wishing-happy-birthday-1fe457e7a2ba)
 
+-->
 ## Thanks! I'm social!
 
 **Lemme know, if you've got better idea. I'd love to hear how *[these](https://medium.com/@vinitshahdeo/coders-way-of-wishing-happy-birthday-1fe457e7a2ba) `code` [snippets](https://medium.com/@vinitshahdeo/coders-way-of-wishing-happy-birthday-1fe457e7a2ba)* have helped you to impress someone.**
 
-<a href="https://www.facebook.com/vinit.shahdeo/" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" /></a> &nbsp;&nbsp;<a href="https://twitter.com/Vinit_Shahdeo" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg" /></a> &nbsp;&nbsp;<a href="https://www.instagram.com/vinitshahdeo/" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" /></a>
+<a href="https://www.facebook.com/piyush.sona168713/" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" /></a> &nbsp;&nbsp;<a href="https://twitter.com/piyush168713" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg" /></a> &nbsp;&nbsp;<a href="https://www.instagram.com/piyush168713 target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" /></a>
