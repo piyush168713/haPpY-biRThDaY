@@ -30,11 +30,11 @@
 ```
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
-### Designing a [website](http://codeastrike.000webhostapp.com/hbd/) to celebrate your loved one's day is always a great idea!
+### Designing a [website] to celebrate your loved one's day is always a great idea!
 
-> #### Click [here](http://codeastrike.000webhostapp.com/hbd/) to view live demo!
 
-### Find some [more](https://medium.com/@vinitshahdeo/coders-way-of-wishing-happy-birthday-1fe457e7a2ba) creative ways!
+
+### Find some [more] creative ways!
 
 [![Kill it](https://forthebadge.com/images/badges/oooo-kill-em.svg)](https://forthebadge.com) [![Vinit Shahdeo](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://facebook.com/vinit.shahdeo)
 
