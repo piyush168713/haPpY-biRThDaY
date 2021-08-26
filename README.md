@@ -19,7 +19,7 @@
 [![Happy Birthday](https://img.shields.io/badge/Happy-Birthday-dodgerblue.svg?style=for-the-badge)](https://github.com/piyush168713/haPpY-biRThDaY.git/)
 
 `demo`
-<img src="./bday_s">
+<img src="https://github.com/piyush168713/haPpY-biRThDaY/blob/main/bday_s.png?raw=true">
 
 > **99.9% of people just say "Happy Birthday" to each other over Social Networking Sites like [Facebook](https://www.facebook.com/piyush.sona168713) and [Twitter](https://twitter.com/piyush168713) with the same 14 predictable letters. Why not say it with `code`? If you're a developer you already understand it!**
 
